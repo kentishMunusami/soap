@@ -6,6 +6,7 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
+//autogenerate
 @XmlRootElement(name = "getHelloWorldAsStringResponse", namespace = "http://ws.home.com/")
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "getHelloWorldAsStringResponse", namespace = "http://ws.home.com/")
